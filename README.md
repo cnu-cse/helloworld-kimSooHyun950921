@@ -1,4 +1,4 @@
 # HelloWorld
-### Student ID
-### Student Name
-### Email address
+### 201905218
+### 김수현
+### shkim950921@cs-cnu.org
